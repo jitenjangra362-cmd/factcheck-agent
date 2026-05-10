@@ -1,6 +1,5 @@
 streamlit
 pymupdf
-google-generativeai
 tavily-python
 python-dotenv
 pandas
